@@ -1,0 +1,27 @@
+[18:23:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:23:09] [ServerMain/INFO]: Loaded 1370 recipes
+[18:23:09] [ServerMain/INFO]: Loaded 1481 advancements
+[18:23:09] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[18:23:09] [Server thread/INFO]: Loading properties
+[18:23:09] [Server thread/INFO]: Default game type: SURVIVAL
+[18:23:09] [Server thread/INFO]: Generating keypair
+[18:23:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:23:09] [Server thread/INFO]: Using epoll channel type
+[18:23:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:23:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:23:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:23:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:23:09] [Server thread/INFO]: Preparing level "world"
+[18:23:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:23:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:23:13] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[18:23:14] [Server thread/INFO]: Time elapsed: 4416 ms
+[18:23:14] [Server thread/INFO]: Done (4.713s)! For help, type "help"
+[18:24:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
